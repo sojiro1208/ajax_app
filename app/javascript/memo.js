@@ -8,6 +8,7 @@ const buildHTML = (XHR) => {
       <div class="post-content">
         ${item.content}
       </div>
+    </div>`;
   return html
 }
 
